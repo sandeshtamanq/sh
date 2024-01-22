@@ -2,8 +2,8 @@
 
 ##Variables
 
-echo "What's Your name nigga?"
+echo "Enter your name"
 read FULL_NAME
 
-echo "My nigga your name is " $FULL_NAME
+echo "Hello" $FULL_NAME
 
